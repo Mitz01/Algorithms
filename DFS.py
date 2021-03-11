@@ -1,3 +1,5 @@
+#DFS Algorithm based on user input
+
 from collections import defaultdict
 
 def dfs_iterative(graph, start_vertex):
