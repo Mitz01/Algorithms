@@ -1,3 +1,5 @@
+#BFS Algorithm based on user input of adjacency matrix
+
 def main():  
     #fff
         #     0  1  2  3
